@@ -1,0 +1,220 @@
+{
+	"MycorrPlus-A, 8 oz.": {
+		"NAME": "MycorrPlus A",
+		"PACKAGE_SIZE": 0.0625,
+		"POUNDS_PER_GALLON": 9.1,
+		"NPK": "N-0.0, P-0.0, K-0.7"
+	},
+	"MycorrPlus-A, Quart": {
+		"NAME": "MycorrPlus A",
+		"PACKAGE_SIZE": 0.25,
+		"POUNDS_PER_GALLON": 9.1,
+		"NPK": "N-0.0, P-0.0, K-0.7"
+	},
+	"MycorrPlus-A, Gallon": {
+		"NAME": "MycorrPlus A",
+		"PACKAGE_SIZE": 1,
+		"POUNDS_PER_GALLON": 9.1,
+		"NPK": "N-0.0, P-0.0, K-0.7"
+	},
+	"MycorrPlus-A, 5 Gallon Bucket": {
+		"NAME": "MycorrPlus A",
+		"PACKAGE_SIZE": 5,
+		"POUNDS_PER_GALLON": 9.1,
+		"NPK": "N-0.0, P-0.0, K-0.7"
+	},
+	"MycorrPlus-A, Tote, Gallon Rate": {
+		"NAME": "MycorrPlus A",
+		"PACKAGE_SIZE": 1,
+		"POUNDS_PER_GALLON": 9.1,
+		"NPK": "N-0.0, P-0.0, K-0.7"
+	},
+	"MycorrPlus-A, Bulk": {
+		"NAME": "MycorrPlus A",
+		"PACKAGE_SIZE": 1,
+		"POUNDS_PER_GALLON": 9.1
+	},
+	"MycorrPlus-F, 8 OZ Bottle": {
+		"NAME": "MycorrPlus F",
+		"PACKAGE_SIZE": 0.0625,
+		"POUNDS_PER_GALLON": 9.1,
+		"NPK": "N-0.0, P-0.0, K-1.0"
+	},
+	"MycorrPlus-F, Quart": {
+		"NAME": "MycorrPlus F",
+		"PACKAGE_SIZE": 0.25,
+		"POUNDS_PER_GALLON": 9.1,
+		"NPK": "N-0.0, P-0.0, K-1.0"
+	},
+	"MycorrPlus-F, Gallon": {
+		"NAME": "MycorrPlus F",
+		"PACKAGE_SIZE": 1,
+		"POUNDS_PER_GALLON": 9.1,
+		"NPK": "N-0.0, P-0.0, K-1.0"
+	},
+	"MycorrPlus-F, 5 Gallon Bucket": {
+		"NAME": "MycorrPlus F",
+		"PACKAGE_SIZE": 5,
+		"POUNDS_PER_GALLON": 9.1,
+		"NPK": "N-0.0, P-0.0, K-1.0"
+	},
+	"MycorrPlus-F, Tote, Gallon Rate": {
+		"NAME": "MycorrPlus F",
+		"PACKAGE_SIZE": 1,
+		"POUNDS_PER_GALLON": 9.1,
+		"NPK": "N-0.0, P-0.0, K-1.0"
+	},
+	"MycorrPlus-F, Bulk": {
+		"NAME": "MycorrPlus F",
+		"PACKAGE_SIZE": 1,
+		"POUNDS_PER_GALLON": 9.1
+	},
+	"MycorrPlus-IFC, 8 oz.": {
+		"NAME": "MycorrPlus IFC.",
+		"PACKAGE_SIZE": 0.0625,
+		"POUNDS_PER_GALLON": 9.1,
+		"NPK": "N-0.0, P-0.0, K-0.8"
+	},
+	"MycorrPlus-IFC, Quart": {
+		"NAME": "MycorrPlus IFC",
+		"PACKAGE_SIZE": 0.25,
+		"POUNDS_PER_GALLON": 9.1,
+		"NPK": "N-0.0, P-0.0, K-0.8"
+	},
+	"MycorrPlus-IFC, Gallon": {
+		"NAME": "MycorrPlus IFC",
+		"PACKAGE_SIZE": 1,
+		"POUNDS_PER_GALLON": 9.1,
+		"NPK": "N-0.0, P-0.0, K-0.8"
+	},
+	"MycorrPlus-IFC, 5 Gallon Bucket": {
+		"NAME": "MycorrPlus IFC",
+		"PACKAGE_SIZE": 5,
+		"POUNDS_PER_GALLON": 9.1,
+		"NPK": "N-0.0, P-0.0, K-0.8"
+	},
+	"MycorrPlus-IFC,Tote, Gallon Rate": {
+		"NAME": "MycorrPlus IFC",
+		"PACKAGE_SIZE": 1,
+		"POUNDS_PER_GALLON": 9.1,
+		"NPK": "N-0.0, P-0.0, K-0.8"
+	},
+	"MycorrPlus-IFC, Bulk": {
+		"NAME": "MycorrPlus IFC",
+		"PACKAGE_SIZE": 1,
+		"POUNDS_PER_GALLON": 9.1
+	},
+	"MycorrPlus-O, 8 oz.": {
+		"NAME": "MycorrPlus O",
+		"PACKAGE_SIZE": 0.0625,
+		"POUNDS_PER_GALLON": 9.1,
+		"NPK": "N-0.0, P-0.0, K-0.7"
+	},
+	"MycorrPlus-O, Quart": {
+		"NAME": "MycorrPlus O",
+		"PACKAGE_SIZE": 0.25,
+		"POUNDS_PER_GALLON": 9.1,
+		"NPK": "N-0.0, P-0.0, K-0.7"
+	},
+	"MycorrPlus-O, Gallon": {
+		"NAME": "MycorrPlus O",
+		"PACKAGE_SIZE": 1,
+		"POUNDS_PER_GALLON": 9.1,
+		"NPK": "N-0.0, P-0.0, K-0.7"
+	},
+	"MycorrPlus-O, 5 Gallon Bucket": {
+		"NAME": "MycorrPlus O",
+		"PACKAGE_SIZE": 5,
+		"POUNDS_PER_GALLON": 9.1,
+		"NPK": "N-0.0, P-0.0, K-0.7"
+	},
+	"MycorrPlus-O, Tote, Gallon Rate": {
+		"NAME": "MycorrPlus O",
+		"PACKAGE_SIZE": 1,
+		"POUNDS_PER_GALLON": 9.1,
+		"NPK": "N-0.0, P-0.0, K-0.7"
+	},
+	"MycorrPlus-O, 5 Bulk": {
+		"NAME": "MycorrPlus O",
+		"PACKAGE_SIZE": 1,
+		"POUNDS_PER_GALLON": 9.1
+	},
+	"MycorrPlus-OF, 8 oz.": {
+		"NAME": "MycorrPlus OF",
+		"PACKAGE_SIZE": 0.0625,
+		"POUNDS_PER_GALLON": 9,
+		"NPK": "N-0.0, P-0.0, K-1.0"
+	},
+	"MycorrPlus-OF, Quart": {
+		"NAME": "MycorrPlus OF",
+		"PACKAGE_SIZE": 0.25,
+		"POUNDS_PER_GALLON": 9,
+		"NPK": "N-0.0, P-0.0, K-1.0"
+	},
+	"MycorrPlus-OF, Gallon": {
+		"NAME": "MycorrPlus OF",
+		"PACKAGE_SIZE": 1,
+		"POUNDS_PER_GALLON": 9,
+		"NPK": "N-0.0, P-0.0, K-1.0"
+	},
+	"MycorrPlus-OF, 5 Gallon Bucket": {
+		"NAME": "MycorrPlus OF",
+		"PACKAGE_SIZE": 5,
+		"POUNDS_PER_GALLON": 9,
+		"NPK": "N-0.0, P-0.0, K-1.0"
+	},
+	"MycorrPlus-OF, Tote, Gallon Rate": {
+		"NAME": "MycorrPlus OF",
+		"PACKAGE_SIZE": 1,
+		"POUNDS_PER_GALLON": 9,
+		"NPK": "N-0.0, P-0.0, K-1.0"
+	},
+	"MycorrPlus-OF, Bulk": {
+		"NAME": "MycorrPlus OF",
+		"PACKAGE_SIZE": 1,
+		"POUNDS_PER_GALLON": 9,
+		"NPK": "N-0.0, P-0.0, K-1.0"
+	},
+	"Ocean Trace, 8 oz.": {
+		"NAME": "Ocean Trace",
+		"PACKAGE_SIZE": 0.0625,
+		"POUNDS_PER_GALLON": 9.28,
+		"NPK": "N-0.0, P-0.0, K-1.2"
+	},
+	"Ocean Trace, Quart": {
+		"NAME": "Ocean Trace",
+		"PACKAGE_SIZE": 0.25,
+		"POUNDS_PER_GALLON": 9.28,
+		"NPK": "N-0.0, P-0.0, K-1.2"
+	},
+	"Ocean Trace, Gallon": {
+		"NAME": "Ocean Trace",
+		"PACKAGE_SIZE": 1,
+		"POUNDS_PER_GALLON": 9.28,
+		"NPK": "N-0.0, P-0.0, K-1.2"
+	},
+	"Ocean Trace, 5 Gallon Bucket": {
+		"NAME": "Ocean Trace",
+		"PACKAGE_SIZE": 5,
+		"POUNDS_PER_GALLON": 9.28,
+		"NPK": "N-0.0, P-0.0, K-1.2"
+	},
+	"Ocean Trace, Tote, Gallon Rate": {
+		"NAME": "Ocean Trace",
+		"PACKAGE_SIZE": 1,
+		"POUNDS_PER_GALLON": 9.28,
+		"NPK": "N-0.0, P-0.0, K-1.2"
+	},
+	"Ocean Trace, Bulk": {
+		"NAME": "Ocean Trace",
+		"PACKAGE_SIZE": 1,
+		"POUNDS_PER_GALLON": 9.28,
+		"NPK": "N-0.0, P-0.0, K-1.2"
+	},
+	"SoilMaxx, 5 Gallon Bucket": {
+		"NAME": "SoilMaxx",
+		"PACKAGE_SIZE": 1,
+		"POUNDS_PER_GALLON": 9.1,
+		"NPK": "N-0.0, P-0.0, K-0.7"
+	}
+}
